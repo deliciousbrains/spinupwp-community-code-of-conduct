@@ -8,6 +8,7 @@
 * Do not share personal information of others to people outside the community
 * All content must be "safe for work"
 * Don't spam the spaces with links, or links to pages, for the purpose of monetization of user views and which provide no value to the community
+* Don’t use this platform for support requests for our staff
 
 This is a safe space, let's keep it that way.
 
@@ -25,11 +26,11 @@ Please don't post shallow dismissals, especially of other people's work, thought
 
 ## Code of Conduct
 
-“The SpinupWP Community” or “SpinupWP Community”  in this document refers to the SpinupWP Developer Community organization at [https://community.spinupwp.com/](https://community.spinupwp.com/). “The administrators” refers to the administrators on this organization, which can be accessed [here](https://community.spinupwp.com/members?active=admins), or from the **Members** button next to **Settings** and then select **Admins**. (You must be a member of the organization to view.)
+“The SpinupWP Community” or “SpinupWP Community” in this document refers to the SpinupWP Developer Community organization at [https://community.spinupwp.com/](https://community.spinupwp.com/). “The administrators” refers to the administrators on this organization, which can be accessed [here](https://community.spinupwp.com/members?active=admins), or from the **Members** button next to **Settings** and then select **Admins**. (You must be a member of the organization to view.)
 
 The SpinupWP Community is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form.
 
-This code of conduct applies to all SpinupWP Community spaces, including public channels, private channels and direct messages, both online and off. Anyone who violates this code of conduct may be sanctioned or expelled from these spaces at the discretion of the administrators.
+This code of conduct applies to all SpinupWP Community spaces, including public channels, private channels, and direct messages, both online and off. Anyone who violates this code of conduct may be sanctioned or expelled from these spaces at the discretion of the administrators.
 
 Some SpinupWP Community spaces may have additional rules in place, which will be made clearly available to participants. Participants are responsible for knowing and abiding by these rules.
 
@@ -38,7 +39,7 @@ Harassment includes:
 * Offensive comments related to gender, gender identity and expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, body size, race, or religion
 * Unwelcome comments regarding a person’s lifestyle choices and practices, including those related to food, health, parenting, drugs, and employment.
 * Deliberate misgendering or use of “dead” or rejected names
-* Gratuitous or off-topic sexual images or behaviour in spaces where they’re not appropriate
+* Gratuitous or off-topic sexual images or behavior in spaces where they’re not appropriate
 * Physical contact and simulated physical contact (eg, textual descriptions like “hug” or “backrub”) without consent or after a request to stop.
 * Threats of violence
 * Incitement of violence towards any individual, including encouraging a person to commit suicide or to engage in self-harm
@@ -56,9 +57,13 @@ Harassment includes:
 
 While the SpinupWP Community aims to be a place for members of the community to meet and connect, it's also important to respect each other's privacy. If you feel as though a service you provide or business you run may be of use to another member, please respect their privacy and first ask publicly if you may contact them about such discussions before sending unsolicited messages.
 
+## Support Requests
+
+The SpinupWP Community exists so that SpinupWP community members can interact with each other. Employees of Delicious Brains Inc, the company behind SpinupWP, are also part of this community to assist with moderation activities. SpinupWP community members should not expect to use the SpinupWP community platform for support requests from our staff. Instead, members should log requests for support in the appropriate support channel through the SpinupWP dashboard or by emailing sudo@spinupwp.com. Any community posts or DMs sent to Delicious Brains Inc employees, which are support requests, will be ignored and may be deleted.
+
 ## Reporting
 
-If you are being harassed by a member of the SpinupWP Community, notice that someone else is being harassed, or have any other concerns please report this to use by emailing community@spinupwp.com. If you prefer to remain anonymous, you can also submit an [anonymous report](https://community.spinupwp.com/). Administrators will respond as soon as they are able. If the person who is harassing you is on the admin team, they will recuse themselves from handling your incident. 
+If you are being harassed by a member of the SpinupWP Community, notice that someone else is being harassed, or have any other concerns please report this to us by emailing community@spinupwp.com. If you prefer to remain anonymous, you can also submit an [anonymous report](https://spinupwp.com/community-report). Administrators will respond as soon as they are able. If the person who is harassing you is on the admin team, they will recuse themselves from handling your incident.
 
 This code of conduct applies to SpinupWP Community spaces, but if you are being harassed by a member of SpinupWP outside of our spaces, we still want to know about it. We will take all good-faith reports of harassment by SpinupWP Community members, especially the administrators, seriously. This includes harassment outside our spaces and harassment that took place at any point in time. The abuse team reserves the right to exclude people from the SpinupWP Community based on their past behavior, including behavior outside SpinupWP Community spaces and behavior towards people who are not members of the SpinupWP Community.
 
@@ -68,19 +73,19 @@ We will respect confidentiality requests for the purpose of protecting victims o
 
 ## Acceptable Content
 
-The SpinupWP Community is a collection of professionals, as such it is expected that the content made available by members of the community should at all times adhere to the acceptable content policy. This policy is intended to protect the community's image, as well as the image of its members, through restrictions on certain classes of content which may be deemed to be unsuitable in a work or family context.
+The SpinupWP Community is a collection of professionals, as such, it is expected that the content made available by members of the community should at all times adhere to the acceptable content policy. This policy is intended to protect the community's image, as well as the image of its members, through restrictions on certain classes of content that may be deemed to be unsuitable in a work or family context.
 
 Links to content are deemed as acceptable as the content within.
 
-Classes of content which we deem to be unsuitable include:
+Classes of content that we deem to be unsuitable include:
 
- - Pornographic or sexually suggestive material, either in graphic or text form.
- - Depictions of physical or emotional abuse, either in graphic or text form.
- - Persecution of any individual as a result of their race, gender, religion or other physical traits.
- - Material intended to, without basis, harm the reputation of any individual whether a member or not.
- - Unsolicited advertising
- - Links, or links to pages, for the purpose of monetization of user views and which provide no value to the SpinupWP Community.
- - Content infringing on copyright laws.
+- Pornographic or sexually suggestive material, either in graphic or text form.
+- Depictions of physical or emotional abuse, either in graphic or text form.
+- Persecution of any individual as a result of their race, gender, religion, or other physical traits.
+- Material intended to, without basis, harm the reputation of any individual whether a member or not.
+- Unsolicited advertising
+- Links, or links to pages, for the purpose of monetization of user views and which provide no value to the SpinupWP Community.
+- Content infringing on copyright laws.
 
 As a quick self-check, ask yourself whether you would like someone's child to see the content you are posting. If the answer is "no", then there's a good chance you shouldn't be posting it on the SpinupWP Community.
 
@@ -94,11 +99,11 @@ Intentionally evading exclusions, bans, suspensions, restrictions, or otherwise 
 
 ## Terms and Conditions
 
-The administrators may, but are not obligated to, monitor or review any areas on the SpinupWP Community where users transmit or post communications or communicate solely with each other, including but not limited to public and private channels, and the content of any such communications. The administrators, however, will have no liability related to the content of any such communications, whether or not arising under the laws of copyright, libel, privacy, obscenity, or otherwise. The administrators may edit or remove content on the SpinupWP Community at their discretion at any time.
+The administrators may, but are not obligated to, monitor or review any areas of the SpinupWP Community where users transmit or post communications or communicate solely with each other, including but not limited to public and private channels, and the content of any such communications. The administrators, however, will have no liability related to the content of any such communications, whether or not arising under the laws of copyright, libel, privacy, obscenity, or otherwise. The administrators may edit or remove content on the SpinupWP Community at their discretion at any time.
 
 ## Changes
 
-If you feel there are aspects to this code of conduct which should be modified, please open a pull request with your suggested changes at [https://github.com/deliciousbrains/code-of-conduct](https://github.com/deliciousbrains/code-of-conduct).
+If you feel there are aspects to this code of conduct that should be modified, please open a pull request with your suggested changes at [https://github.com/deliciousbrains/code-of-conduct](https://github.com/deliciousbrains/code-of-conduct).
 
 ## Credits
 
