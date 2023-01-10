@@ -63,7 +63,7 @@ The SpinupWP Community exists so that SpinupWP community members can interact wi
 
 ## Reporting
 
-If you are being harassed by a member of the SpinupWP Community, notice that someone else is being harassed, or have any other concerns please report this to us by emailing community@spinupwp.com. If you prefer to remain anonymous, you can also submit an [anonymous report](https://spinupwp.com/community-report). Administrators will respond as soon as they are able. If the person who is harassing you is on the admin team, they will recuse themselves from handling your incident.
+If you are being harassed by a member of the SpinupWP Community, notice that someone else is being harassed, or have any other concerns please report this to us by emailing sudo@spinupwp.com. If you prefer to remain anonymous, you can also submit an [anonymous report](https://spinupwp.com/community-report). Administrators will respond as soon as they are able. If the person who is harassing you is on the admin team, they will recuse themselves from handling your incident.
 
 This code of conduct applies to SpinupWP Community spaces, but if you are being harassed by a member of SpinupWP outside of our spaces, we still want to know about it. We will take all good-faith reports of harassment by SpinupWP Community members, especially the administrators, seriously. This includes harassment outside our spaces and harassment that took place at any point in time. The abuse team reserves the right to exclude people from the SpinupWP Community based on their past behavior, including behavior outside SpinupWP Community spaces and behavior towards people who are not members of the SpinupWP Community.
 
